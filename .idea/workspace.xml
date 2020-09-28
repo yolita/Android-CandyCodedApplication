@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601326245691</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="phoneIntent created and started">
+      <created>1601326770710</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601326770710</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,21 +191,22 @@
     <MESSAGE value="InfoIntent created" />
     <MESSAGE value="InfoIntent Activity started" />
     <MESSAGE value="MapIntent created and started" />
-    <option name="LAST_COMMIT_MESSAGE" value="MapIntent created and started" />
+    <MESSAGE value="phoneIntent created and started" />
+    <option name="LAST_COMMIT_MESSAGE" value="phoneIntent created and started" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="477" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1601325369121">
+    <state x="477" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1601326878309">
       <screen x="46" y="23" width="1234" height="777" />
     </state>
-    <state x="477" y="127" key="#com.intellij.ide.util.MemberChooser/46.23.1234.777@46.23.1234.777" timestamp="1601325369121" />
+    <state x="477" y="127" key="#com.intellij.ide.util.MemberChooser/46.23.1234.777@46.23.1234.777" timestamp="1601326878309" />
     <state x="499" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601324659841">
       <screen x="46" y="23" width="1234" height="777" />
     </state>
     <state x="499" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/46.23.1234.777@46.23.1234.777" timestamp="1601324659841" />
-    <state x="193" y="23" width="933" height="777" key="CommitChangelistDialog2" timestamp="1601326245445">
+    <state x="193" y="23" width="933" height="777" key="CommitChangelistDialog2" timestamp="1601326767792">
       <screen x="46" y="23" width="1234" height="777" />
     </state>
-    <state x="193" y="23" width="933" height="777" key="CommitChangelistDialog2/46.23.1234.777@46.23.1234.777" timestamp="1601326245445" />
+    <state x="193" y="23" width="933" height="777" key="CommitChangelistDialog2/46.23.1234.777@46.23.1234.777" timestamp="1601326767792" />
     <state width="1189" height="197" key="GridCell.Tab.0.bottom" timestamp="1601326635083">
       <screen x="46" y="23" width="1234" height="777" />
     </state>
@@ -216,9 +223,9 @@
       <screen x="46" y="23" width="1234" height="777" />
     </state>
     <state width="1189" height="197" key="GridCell.Tab.0.right/46.23.1234.777@46.23.1234.777" timestamp="1601326635082" />
-    <state x="264" y="151" key="Vcs.Push.Dialog.v2" timestamp="1601326251992">
+    <state x="264" y="151" key="Vcs.Push.Dialog.v2" timestamp="1601326789362">
       <screen x="46" y="23" width="1234" height="777" />
     </state>
-    <state x="264" y="151" key="Vcs.Push.Dialog.v2/46.23.1234.777@46.23.1234.777" timestamp="1601326251992" />
+    <state x="264" y="151" key="Vcs.Push.Dialog.v2/46.23.1234.777@46.23.1234.777" timestamp="1601326789362" />
   </component>
 </project>
